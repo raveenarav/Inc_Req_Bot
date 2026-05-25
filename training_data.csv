@@ -1,0 +1,16 @@
+description,category,subcategory,type
+Cannot login to my laptop,Access,Login Issues,Incident
+My email is not working,Email,Email Access,Incident
+Need access to SharePoint,Access,SharePoint,Request
+Laptop screen is black,Hardware,Screen Issues,Incident
+VPN not connecting,Network,VPN,Incident
+Need new software installed,Software,Installation,Request
+Printer not working,Hardware,Printer,Incident
+Password reset required,Access,Password Reset,Request
+Internet connection is slow,Network,Connectivity,Incident
+Need Microsoft Office license,Software,Licensing,Request
+Computer is running slow,Hardware,Performance,Incident
+Cannot access shared drive,Access,File Share,Incident
+Teams not loading,Software,Microsoft Teams,Incident
+Need new laptop,Hardware,New Equipment,Request
+Outlook keeps crashing,Email,Outlook,Incident
