@@ -1,5 +1,4 @@
-ave as README.md:
-markdown# IT Incident & Request Bot
+
 
 An agentic AI chatbot that classifies IT incidents and service 
 requests using a hybrid ML + GPT classification engine.
